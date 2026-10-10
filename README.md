@@ -1,5 +1,7 @@
 # Flutter Firebase Tutorial
 
+This is a forked project.
+
 This project contains 2 parts:
 
 - starter_code
